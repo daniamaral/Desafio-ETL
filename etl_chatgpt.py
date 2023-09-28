@@ -4,7 +4,7 @@ import pandas as pd
 import openai
 import os
 
-openai.api_key = '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'
+openai.api_key = 'insert key here'
 sdw2023_api_url = 'https://sdw-2023-prd.up.railway.app'
 
 #Função que obtem as informações dos usuários da API fornecida. Retorna os dados caso a conexão seja bem sucedida
